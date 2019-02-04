@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PharoDarkTheme",
+	"category" : "Theme-Terminal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PharoTerminalTheme",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+selectionTextColor
+	^ Color white
