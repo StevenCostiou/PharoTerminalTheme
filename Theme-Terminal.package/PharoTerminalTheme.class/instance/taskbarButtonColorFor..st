@@ -1,3 +1,3 @@
 accessing colors
 taskbarButtonColorFor: aButton
-	^ Color red 
+	^ Color green 

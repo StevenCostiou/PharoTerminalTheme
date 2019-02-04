@@ -1,3 +1,3 @@
 accessing colors
 enabledColor 
-	^ Color red
+	^ Color green
