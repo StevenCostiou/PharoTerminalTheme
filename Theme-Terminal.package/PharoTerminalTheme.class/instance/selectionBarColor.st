@@ -1,3 +1,3 @@
 accessing
 selectionBarColor
-	^ Color green muchDarker muchDarker
+	^ Color green muchDarker muchDarker alpha: 0.5
